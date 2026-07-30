@@ -1,0 +1,6 @@
+{
+  "name": "planeamos.pt",
+  "description": "Plataforma inteligente de criação e personalização de planos de treino, dieta e estilo de vida com pagamento PayPal e entrega por e-mail.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
